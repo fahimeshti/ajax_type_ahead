@@ -10,5 +10,5 @@ Learned some more application of functional Javascript and how it can be used to
 
 ## Acknowledgments
 
-Learned from:
+Learned with the help of:
 * [30 Days of Javascript](https://wesbos.com/)
