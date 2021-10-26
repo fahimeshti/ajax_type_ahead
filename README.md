@@ -2,8 +2,9 @@
 
 AJAX Type Ahead
 
-## What I Learned
+## What was Learned and implimented
 
+Learned some more application of functional Javascript, used fetch api to Get json data and learned more about Regex (Regular Expression).
 
 
 ## Acknowledgments
